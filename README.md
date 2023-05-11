@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-@@ -2,7 +2,7 @@
+@@ -1,8 +1,8 @@
+[![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
 <h1 align="center">Hi 👋, I'm Pankaj Neel</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
